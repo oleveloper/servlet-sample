@@ -11,6 +11,9 @@
     <title>Hello World!</title>
   </head>
   <body>
-  This is sample page for servlet programming
+    This is sample page for servlet programming
+
+    <li><a href="SampleServlet">Sample servlet</a></li>
+    <li><a href="CrashServlet">Crash servlet</a></li>
   </body>
 </html>
